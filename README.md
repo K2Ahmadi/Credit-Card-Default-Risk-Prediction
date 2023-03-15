@@ -7,6 +7,6 @@ The project is divided into three main stages:
 
  1. Exploratory Data Analysis
  2. Data Cleaning & Data Preprocessing
- 3. Implementing, Tuning, Testing Machine learning Models
+ 3. Implementing, Tuning, and Testing Machine learning Models
 
 For further details, please refer to the code provided in this repository.
